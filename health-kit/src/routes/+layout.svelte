@@ -11,7 +11,7 @@
 <ParaglideJS {i18n}>
 	<div class="app">
 		
-
+		
 		<main>
 			{@render children()}
 		</main>
@@ -36,7 +36,7 @@
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
-
+/*
 	footer {
 		display: flex;
 		flex-direction: column;
@@ -53,5 +53,5 @@
 		footer {
 			padding: 12px 0;
 		}
-	}
+	}*/
 </style>
